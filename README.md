@@ -1,7 +1,8 @@
 # FHEM::Installer
 
-Master branch: Production version (copy of [fhem/fhem-mirror/blob/master/fhem/FHEM/98_Installer.pm](https://github.com/fhem/fhem-mirror/blob/master/fhem/FHEM/98_Installer.pm))
-Dev branch: Latest development version
+## Used branching model
+* Master branch: Production version (copy of [fhem/fhem-mirror/blob/master/fhem/FHEM/98_Installer.pm](https://github.com/fhem/fhem-mirror/blob/master/fhem/FHEM/98_Installer.pm))
+* Dev branch: Latest development version
 
 ## Community support
 The FHEM Forum is available [here](https://forum.fhem.de/) for general support.
