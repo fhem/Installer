@@ -1,4 +1,4 @@
-# $Id: 98_Installer.pm 19500 2019-05-30 21:02:07Z loredo $
+# $Id$
 
 package main;
 use strict;
